@@ -21,13 +21,19 @@ Example Output:
 Network:
 
 SSID: MyNetwork
+
 NIC: Intel(R) Wireless Adapter
+
 State: connected
+
 Signal: 78%
+
 
 Ping:
 
 Average = 23ms
+
 received: 1048576
+
 sent: 512000
 
